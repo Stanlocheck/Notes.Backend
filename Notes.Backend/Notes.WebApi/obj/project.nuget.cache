@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EXxS5d4XzouOO5iL+EowQqk6DPOw4Csf7KFcZSGT54hsegRgZ5rhLOdackf3SBWQN4lfBK2gAUNZr65d1GqBkQ==",
+  "dgSpecHash": "CD1JlEInN3b2YEHicDuLO3pRHQJIZZ62VJulQGoiWGe1qIcXcnmCOL5iju7kKyvQmdCzQQhvxe4cHAXNb1YKIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aleksey\\Desktop\\Notes\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,8 @@
     "C:\\Users\\Aleksey\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Aleksey\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\Aleksey\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.1\\microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",
+    "C:\\Users\\Aleksey\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\Aleksey\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
     "C:\\Users\\Aleksey\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Aleksey\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
     "C:\\Users\\Aleksey\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
