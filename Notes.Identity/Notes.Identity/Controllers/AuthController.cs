@@ -53,7 +53,7 @@ namespace Notes.Identity.Controllers
         public IActionResult Register(string returnUrl)
         {
             var viewModel = new RegisterViewModel { ReturnUrl = returnUrl };
-            return View(returnUrl);
+            return View(viewModel);
         }
 
         [HttpPost]

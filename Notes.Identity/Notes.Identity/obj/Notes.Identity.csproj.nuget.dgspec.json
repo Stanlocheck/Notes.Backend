@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aleksey\\source\\repos\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj": {}
+    "C:\\Users\\Aleksey\\Desktop\\Notes\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aleksey\\source\\repos\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj": {
+    "C:\\Users\\Aleksey\\Desktop\\Notes\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aleksey\\source\\repos\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksey\\Desktop\\Notes\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
         "projectName": "Notes.Identity",
-        "projectPath": "C:\\Users\\Aleksey\\source\\repos\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
+        "projectPath": "C:\\Users\\Aleksey\\Desktop\\Notes\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
         "packagesPath": "C:\\Users\\Aleksey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aleksey\\source\\repos\\Notes.Identity\\Notes.Identity\\obj\\",
+        "outputPath": "C:\\Users\\Aleksey\\Desktop\\Notes\\Notes.Identity\\Notes.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

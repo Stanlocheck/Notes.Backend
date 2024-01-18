@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "acgrAXrfwbH5SAWqjQCqmew70ja72CX9GaFAJZj7SXiR7zVskh1ZkeLL3hs7gJKhthIOchSR5j3Aql3w5DOkKg==",
+  "dgSpecHash": "hGRfVubomZEXaOaGEQkkKtd9SFKRiMetqc7pWTaUdb4aOhEr8tRc7PMPZAMMBCcy4nz6xwKZOlvp5FOhObN/ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksey\\source\\repos\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
+  "projectFilePath": "C:\\Users\\Aleksey\\Desktop\\Notes\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksey\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\Aleksey\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",
