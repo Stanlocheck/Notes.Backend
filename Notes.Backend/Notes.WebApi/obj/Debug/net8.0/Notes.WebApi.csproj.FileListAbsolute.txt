@@ -154,3 +154,10 @@ C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\obj\Debug\net8.0\refin
 C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\obj\Debug\net8.0\Notes.WebApi.pdb
 C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\obj\Debug\net8.0\Notes.WebApi.genruntimeconfig.cache
 C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\obj\Debug\net8.0\ref\Notes.WebApi.dll
+C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\obj\Debug\net8.0\Notes.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\bin\Debug\net8.0\Notes.WebApi.xml
+C:\Users\Aleksey\Desktop\Notes\Notes.Backend\Notes.WebApi\obj\Debug\net8.0\Notes.WebApi.xml
